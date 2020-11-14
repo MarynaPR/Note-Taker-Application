@@ -17,6 +17,7 @@ With provided front end, the application features building of the back end, conn
 
 * CSS
 * HTML
+* JavaScript
 * Node.js
 * Express 
 
@@ -34,8 +35,8 @@ With provided front end, the application features building of the back end, conn
  ### Questions :question: 
   Feel free to contact me with any questions via email :e-mail: pryadkamaryna@gmail.com. 
   
-  If you'd like to see my other projects, please checkout my :octocat: [GitHub]
- (https://github.com/MarynaPR?tab=repositories)
+  If you'd like to see my other projects, please checkout my :octocat: 
+  [GitHub](https://github.com/MarynaPR?tab=repositories)
 
 
 
